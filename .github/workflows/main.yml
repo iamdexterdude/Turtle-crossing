@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run Python file
-        run: python hello.py
+        run: python main.py
